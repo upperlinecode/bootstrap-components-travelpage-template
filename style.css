@@ -1,0 +1,12 @@
+body{
+	font-family: 'Merriweather', serif;
+	background-color: #83c5be;
+}
+
+h1{
+	margin: 30px;
+	font-family: 'Sacramento', cursive;
+	font-size: 90px;
+	text-align: center;
+	color: #edf6f9;
+}
